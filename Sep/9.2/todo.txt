@@ -1,0 +1,2 @@
+learn local and global variables 
+get used to reading and writing files

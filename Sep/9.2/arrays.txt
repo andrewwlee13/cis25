@@ -1,0 +1,3 @@
+you gotta declare the data type held by the integer and the size in your source code, you
+can't do this at runtime? 
+
