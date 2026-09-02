@@ -1,3 +1,7 @@
 you gotta declare the data type held by the integer and the size in your source code, you
 can't do this at runtime? 
 
+python and java script are higher level, the reason C++ is good
+is because your learn about memory, especially with pointers,
+you wouldn't really learn this in python
+
