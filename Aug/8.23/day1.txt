@@ -1,0 +1,77 @@
+quizzes conceptual 30 min + coding 30 min, retake them, no exams
+
+ask prof what a good review would be
+
+25,25,25,25 conceptual quiz, coding quiz, labs hw, 2 projects
+
+
+Teach doesn't reccomend using stackOverflow (or similar sites)
+as learning references for this class
+
+
+Praxis is where quizzes are done, we have a discord lmao
+
+I can talk to teach about DSP accomodations sometime
+
+Maybe I should talk to teach more personally about what I want 
+out of the class and where I feel like I'm lacking with my 
+comp skills 
+
+
+Another way of thinking about an OS:
+An abstraction that allows you to interat with the CPU in a less
+hairy way. It's a layer between all the hardware and all the software
+
+Programs are sets of instructions for the CPUs. The two most common
+types of CPUs are x86/x64 and ARM. 
+
+I need to stop despising my ex 
+
+A compiler translates source code to machine code
+
+It's good not to expect yourself to get the program right on your
+first attempt
+
+Why do we have lab.h? For now, the non-technical answer is that
+having a header is nice to see all the functions that a program 
+uses if the program is long.
+
+I see that we have a separate cpp file for the function run in main.cpp
+
+Why include lab.h? well it copy pastes all the code from there to here
+not sure why we don't just include lab.cpp
+
+C++ is static so you must specify. If you want to store a giraffe, you
+need to ask for a giraffe shaped box. If you want an integer, you need
+to ask for an integer variable and then name the variable
+
+It might be good to remember simple defintions? Like that = - etc are
+operators. I really should talk to teach about what the best shi
+to get out of the class is and what I should pay the most attention to
+
+On wednesday we'll finish part 2 of lab 1 as a quiz 
+
+We'll also do a conceptual quiz covering today's notes on wednesday
+
+   
+    std::string name = "Ada";
+int slicesOfPizza = 8;
+double price = 19.99;
+char grade = 'A';
+bool isFinished = false;
+int a = 10;
+int b = 3;
+double decimalA = 10.0;
+const double PI = 3.14159;
+    
+ std::cout << "Hello, World!" << endl;
+std::cout << "Student: Ada" << endl;
+std::cout << "Pizza slices: 8" << endl;
+std::cout << "Price: $19.99" << endl;
+std::cout << "Grade: A" << endl;
+std::cout << "Finished: false" << endl;
+std::cout << "a / b with integers: 3" << endl;
+std::cout << "a * b: 30" << endl;
+std::cout << "a % b: 1" << endl;
+std::cout << "a / b with a double: 3.33333" << endl;
+std::cout << "PI: 3.14159" << endl;

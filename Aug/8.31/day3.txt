@@ -1,0 +1,6 @@
+teach thanks we should never use switch statements unless we
+absolutely have to 
+
+case score > 90 <-- not allowed 
+
+case 1: 

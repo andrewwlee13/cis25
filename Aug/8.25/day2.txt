@@ -1,0 +1,75 @@
+teach thanks im learning world history whole time im watchin da mick
+
+in the lab we got lab.h  lab.cpp and main.cpp
+lab.h is the header listing all the functions, lab.cpp has one function, main.cpp
+calls the function defined in lab.cpp
+
+this is similar to what we've done before except we're doing it in separate files
+
+we'll be able to schedule one on ones with teach in the future using the 
+appointment tab in praxis
+
+it might not be terrible to do the catchup packet? idk prob just 
+cus like arrays and vectors type shit
+
+github uses the "git" system. The whole gimmick about git is that 
+you can have saved checkpoints. You can think of a repo as just a 
+group of code
+
+you can see all the commits
+
+codespaces, in addition to having an IDE, will also have a virtual code machine,
+it's a small linux box, a "something two", probably in oregon or virginia
+somewhere there are lots of data centers
+
+linux and mac are both unix, so a lot of mac commands work here on this 
+linux
+
+where did the party go?? nah nah nah nah
+
+ls and cd are actually programs that do thing, so too is the compiler
+
+david malan would be all like "hello dot py"
+
+we can resubmit the coding quiz over and over again until the 30 min is up
+
+instead of git add -A i could do lke git add hello.cpp
+
+in general we don't want to commit programs, only source code
+we want repos to be "clean"
+
+when you type git commit you are using the git program
+
+how to reconcile divergent branches?
+
+git push --force if you type into terminal will erase everythign that was different 
+abt github changes. If you edit the readme.md to say "bro" in github but "dude" in
+codespaces you might get this I think
+
+"<<" these are called streaming operations, cin is a streaming operator
+
+think abt the fact that we use the namespace name "std" in c++
+herpes::cout
+
+string chud;
+cout << "who is a chud" << endl;
+cin >> chud;
+
+in codespaces you can press up to get to a command you ran before
+
+//getline(cin, chud) runs cin over and over again until it gets to the end of the line
+
+Fn + Control + F4 to switch where typing goes between windows
+
+cout << fixed << setprecision(2) with <iomanip> 
+or cout << setprecision(2) will liimit to 2 sig figs 
+
+std::getline(std::cin, fullName);
+
+apparently when we run stuff on praxis we get
+put on a queue have to wait for everyone else to compile first 
+
+
+cout << fixed << serprecision(2);
+
+cout << setw(20) << firstItem << setw(20) << firstPrice << endl;
